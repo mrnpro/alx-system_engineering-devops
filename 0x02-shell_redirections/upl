@@ -2,4 +2,4 @@
 da
 git add .
 git commit -m "bash"
-git push origin master
+git push origin main
